@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @titan2309
+- 👋 Hi, Myself Hardik
 - 👀 I’m interested in creating new software application
 - 🌱 I’m currently learning Java, React, Javascript, Springboot
 - 💞️ I’m looking to collaborate on innovative ideas and applcations
