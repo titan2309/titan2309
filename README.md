@@ -1,6 +1,6 @@
 - 👋 Hi, Myself Hardik
 - 👀 I’m interested in creating new software application
-- 🌱 I’m currently learning Java, React, Javascript, Springboot
+- 🌱 I’m currently learning MERN Stack, Java, Springboot
 - 💞️ I’m looking to collaborate on innovative ideas and applcations
 - 📫 You can reach me at hardikrathore.0123@gmail.com
 - ⚡ Fun fact: The first-ever webcam was created at the University of Cambridge to monitor a coffee pot
